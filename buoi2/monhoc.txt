@@ -1,0 +1,5 @@
+LT01#Lập trình C# WPF#3#7.5#8.0
+LT02#Cơ sở dữ liệu SQL#3#7.0#8.0#9.0
+TH03#Đồ án Python#4#8.5#9.0
+TH04#Mạng máy tính#3#6.0#7.5
+DA05#Cấu trúc dữ liệu#3#8.0#8.0#8.5
